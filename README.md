@@ -1,4 +1,4 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
+# EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 # NAME: h GANANANTH                                                                            
 # REGISTER NUMBER : 212225230286
 # DATE:30-04-2026                                                                            
